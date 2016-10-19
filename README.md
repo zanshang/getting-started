@@ -5,6 +5,7 @@
 ## Python
 
 [Coursera](https://www.coursera.org/specializations/python)
+
 [网易云课堂](http://study.163.com/course/introduction/302001.htm#/courseDetail)
 
 [Python 官方文档](https://docs.python.org/3/)
@@ -12,13 +13,17 @@
 ## 一些可能用的到的Python库
 
 [sklearn](http://scikit-learn.org/stable/)
+
 [pandas](http://pandas.pydata.org/)
+
 [numpy](http://www.numpy.org/)
 
 ## 机器学习
 
 [Coursera](https://www.coursera.org/specializations/machine-learning)
+
 [网易公开课](http://open.163.com/special/opencourse/learningfromdata.html)
+
 [网易公开课](http://open.163.com/special/opencourse/machinelearning.html)
 
 #比赛规则
